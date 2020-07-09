@@ -9,6 +9,8 @@
 	"dependencies": {
 		"body-parser": "^1.18.3",
 		"express": "^4.16.4",
+		"mysql": "^2.18.1",
+		"mysql2": "^2.1.0",
 		"nodemon": "^2.0.4",
 		"yarn": "^1.22.4"
 	},
